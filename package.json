@@ -65,7 +65,7 @@
   "dependencies": {
     "@material/mwc-button": "^0.13.0",
     "@material/mwc-textfield": "^0.14.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "fuse.js": "^5.2.3",
     "lit-element": "^2.2.1",
     "path-parser": "^6.1.0",
